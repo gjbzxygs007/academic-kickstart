@@ -77,7 +77,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/jianan-jason-zhu
+  link: https://www.linkedin.com/in/jianan-jason-zhu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=k9gUEi0AAAAJ&hl=en
@@ -86,10 +86,16 @@ social:
   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+<<<<<<< HEAD
 >>>>>>> 56e4eca (Update _index.md)
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
+=======
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+>>>>>>> 6f65a01 (Update _index.md)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -98,6 +104,7 @@ email: ""
 highlight_name: false
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -115,3 +122,8 @@ I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperativ
 =======
 I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed mobile agent localization, SLAM, and UWB signal processing/communication. 
 >>>>>>> 9b6622d (Update _index.md)
+=======
+I am a Ph.D. candidate (expected August 2020) in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed localization, SLAM, and UWB signal processing/communication. 
+
+I am actively seeking a software or research engineer role in the self-driving and robotics industry including SLAM, navigation, robotics, and AR/VR in the Bay Area.
+>>>>>>> 6f65a01 (Update _index.md)

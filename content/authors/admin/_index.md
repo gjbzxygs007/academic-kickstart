@@ -1,17 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jianan (Jason) Zhu
 
 # Is this the primary user of the site?
 superuser: true
 
+<<<<<<< HEAD
 # Role/position/tagline
 role: Professor of Artificial Intelligence
+=======
+# Role/position
+role: Ph.D. candidate of Mechanical Engineering
+>>>>>>> 6a5de78 (Update _index.md)
 
 # Organizations/Affiliations to show in About widget
 organizations:
+<<<<<<< HEAD
 - name: Stanford University
   url: https://www.stanford.edu/
+=======
+- name: University of California, Irvine
+  url: ""
+>>>>>>> 6a5de78 (Update _index.md)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,6 +81,7 @@ highlight_name: false
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
@@ -79,3 +90,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 =======
 I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab.
 >>>>>>> 5bb3f7a (Update _index.md)
+=======
+I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab. My research interests include distributed mobile agent localization, SLAM, and UWB signal processing/communication.
+>>>>>>> 6a5de78 (Update _index.md)

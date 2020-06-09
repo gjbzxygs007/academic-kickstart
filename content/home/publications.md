@@ -6,8 +6,13 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+<<<<<<< HEAD
 # Order that this section appears on the page.
 weight: 90
+=======
+title = "Publications"
+subtitle = ""
+>>>>>>> 7a502d0 (Update publications.md)
 
 title: Recent Publications
 subtitle: ''
@@ -18,6 +23,7 @@ content:
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
+<<<<<<< HEAD
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
@@ -30,6 +36,23 @@ content:
     exclude_featured: true
 design:
   # Choose a view for the listings:
+=======
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = "An UWB-based Communication Protocol Design for Infra-structure Free Cooperative Navigation"
+    category = "11"
+    publication_type = "22"
+    author = "Jianan Zhu, Solmaz S. Kia"
+    exclude_featured = false
+  
+[design]
+  # Toggle between the various page layout types.
+>>>>>>> 7a502d0 (Update publications.md)
   #   1 = List
   #   2 = Compact
   #   3 = Card

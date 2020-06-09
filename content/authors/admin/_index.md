@@ -26,6 +26,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+<<<<<<< HEAD
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
@@ -45,6 +46,8 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 
+=======
+>>>>>>> 9b6622d (Update _index.md)
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -82,6 +85,7 @@ highlight_name: false
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
@@ -93,3 +97,6 @@ I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperativ
 =======
 I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab. My research interests include distributed mobile agent localization, SLAM, and UWB signal processing/communication.
 >>>>>>> 6a5de78 (Update _index.md)
+=======
+I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed mobile agent localization, SLAM, and UWB signal processing/communication. 
+>>>>>>> 9b6622d (Update _index.md)

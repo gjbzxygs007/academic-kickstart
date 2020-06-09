@@ -10,13 +10,13 @@ date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+#publishDate: "2020-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+#publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE/ION PLANS 2020, Portland"
@@ -29,7 +29,7 @@ publication_short: ""
 
 #tags:
 #- Source Themes
-featured: false
+#featured: false
 
 # links:
 # - name: ""
@@ -45,7 +45,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
+# image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false

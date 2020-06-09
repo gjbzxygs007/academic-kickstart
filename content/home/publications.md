@@ -31,7 +31,7 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
-  title = "A wjiasjihuf jiadjihu"
+  tag = "123123123123123"
   
 >>>>>>> 679097c (Update publications.md)
   # Choose how much pages you would like to display (0 = all pages)

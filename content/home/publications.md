@@ -11,8 +11,12 @@ headless: true
 weight: 90
 =======
 title = "Publications"
+<<<<<<< HEAD
 subtitle = ""
 >>>>>>> 7a502d0 (Update publications.md)
+=======
+subtitle = "12312312312"
+>>>>>>> 5d21a13 (Update publications.md)
 
 title: Recent Publications
 subtitle: ''
@@ -49,11 +53,11 @@ design:
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = "Jianan Zhu, Solmaz S. Kia"
-    exclude_featured = false
+  #  tag = ""
+  #  category = ""
+  #  publication_type = ""
+  #  author = "Jianan Zhu, Solmaz S. Kia"
+  #  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.

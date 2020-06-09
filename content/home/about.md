@@ -20,4 +20,7 @@ title: Biography
 author = "admin"
 +++
 
+<<<<<<< HEAD
 I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab.
+=======
+>>>>>>> 55074ef (Update about.md)

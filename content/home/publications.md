@@ -99,7 +99,13 @@ Quickly discover relevant content by [filtering publications](./publication/).
  css_class = ""
 +++
 
+<<<<<<< HEAD
 {{% alert note %}}
 <!-- Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}). -->
 {{% /alert %}}
 >>>>>>> 89bbbc0 (Update publications.md)
+=======
+<!-- {{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}} -->
+>>>>>>> ccbf6ca (Update publications.md)

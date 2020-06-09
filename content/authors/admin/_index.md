@@ -55,6 +55,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+<<<<<<< HEAD
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
@@ -72,6 +73,20 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
+=======
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/jianan-jason-zhu
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=k9gUEi0AAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+>>>>>>> 56e4eca (Update _index.md)
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf

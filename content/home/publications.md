@@ -21,7 +21,12 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
+<<<<<<< HEAD
   count: 5
+=======
+  count = 0
+  
+>>>>>>> fec39d6 (Update publications.md)
   # Choose how many pages you would like to offset by
 <<<<<<< HEAD
   offset: 0
@@ -44,9 +49,9 @@ design:
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "An UWB-based Communication Protocol Design for Infra-structure Free Cooperative Navigation"
-    category = "11"
-    publication_type = "22"
+    tag = ""
+    category = ""
+    publication_type = ""
     author = "Jianan Zhu, Solmaz S. Kia"
     exclude_featured = false
   

@@ -40,10 +40,14 @@ content:
   #   3 = Card
   #   4 = Citation (publication only)
 <<<<<<< HEAD
+<<<<<<< HEAD
   view: 4
 ---
 =======
   view = 1
+=======
+  view = 2
+>>>>>>> 8ca4161 (Update publications.md)
   
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

@@ -16,13 +16,13 @@ publishDate: "22020-06-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/ION PLANS 2020*
+publication: In *IEEE/ION Position Location and Navigation Symposium 2020*
 #publication_short: In *STC*
 
 abstract: In this paper, we design a practical medium access control (MAC) protocol for an infrastructure free cooperative navigation method for a group of firefighters which utilizes an ultra-wideband (UWB) technology for inter-agent ranging and communication. Specifically, our focus in this paper is on developing a communication protocol for DWM1000 UWB transceiver that works in a robust and energy-efficient manner for our cooperative navigation system. Our proposed solution is a dynamic time division multiple access (DTDMA) in conjunction with a novel negotiation-based rescheduling method. The negotiation-based rescheduling method is designed based on the characteristic features of our cooperative navigation algorithm of interest. We demonstrate our result using a field test and a complexity analysis.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Proceedings of the IEEE/ION Position Location and Navigation Symposium 2020
 
 tags:
 - Source Themes

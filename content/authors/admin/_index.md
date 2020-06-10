@@ -56,6 +56,7 @@ social:
 - icon: envelope
   icon_pack: fas
 <<<<<<< HEAD
+<<<<<<< HEAD
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
@@ -75,6 +76,9 @@ social:
 # and uncomment the lines below.
 =======
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+=======
+  link: 'mailto:jiananz1@uci.edu'  # For a direct email link, use "mailto:test@example.org".
+>>>>>>> e925fcb (Update _index.md)
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jianan-jason-zhu

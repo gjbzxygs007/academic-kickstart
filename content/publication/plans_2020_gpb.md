@@ -19,32 +19,7 @@ publication_types: ["1"]
 publication: In *IEEE/ION PLANS 2020*
 #publication_short: In *STC*
 
-abstract: This paper considers the global localization of a
-pedestrian via an ultra-wideband (UWB) ranging aided inertial
-navigation system (INS) and aims to address the challenges
-involved in proper processing of UWB range measurements. Even
-though UWB offers a decimeter level accuracy in line-of-sight
-(LoS) ranging, its accuracy degrades significantly in non-lineof-
-sight (NLoS). This drop in accuracy is due to a significant
-unknown positive bias in the NLOS range measurements. Therefore,
-the measurement models used in UWB LoS and NLoS
-ranging conditions are different, and proper processing of NLoS
-measurements requires a bias compensation measure. Previous
-work on bias compensation for UWB ranging that is used to
-aid an INS based localization assumes that the LoS and NLoS
-measurements are identified and distinguished from each other
-with absolute certainty. However, in practice, this assumption
-is hard to satisfy, and identifiers that determine the type of
-UWB range measurements deliver their results with only some
-level of certainty. To take into account the probabilistic nature
-of the NLoS identifiers, in this paper, we propose an adaptive
-localization based on the first-order generalized pseudo Bayesian
-(GPB) method to seamlessly handle the measurement model
-switching between LoS and NLoS UWB range measurements.
-The effectiveness of our proposed method is demonstrated via
-an experiment for pedestrian geolocation using a shoe-mounted
-INS system aided by UWB range measurements with respect to
-beacons with known locations.
+abstract: This paper considers the global localization of a pedestrian via an ultra-wideband (UWB) ranging aided inertial navigation system (INS) and aims to address the challenges involved in proper processing of UWB range measurements. Even though UWB offers a decimeter level accuracy in line-of-sight (LoS) ranging, its accuracy degrades significantly in non-line-of-sight (NLoS). This drop in accuracy is due to a significant unknown positive bias in the NLOS range measurements. Therefore, the measurement models used in UWB LoS and NLoS ranging conditions are different, and proper processing of NLoS measurements requires a bias compensation measure. Previous work on bias compensation for UWB ranging that is used to aid an INS based localization assumes that the LoS and NLoS measurements are identified and distinguished from each other with absolute certainty. However, in practice, this assumption is hard to satisfy, and identifiers that determine the type of UWB range measurements deliver their results with only some level of certainty. To take into account the probabilistic nature of the NLoS identifiers, in this paper, we propose an adaptive localization based on the first-order generalized pseudo Bayesian (GPB) method to seamlessly handle the measurement model switching between LoS and NLoS UWB range measurements. The effectiveness of our proposed method is demonstrated via an experiment for pedestrian geolocation using a shoe-mounted INS system aided by UWB range measurements with respect to beacons with known locations.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

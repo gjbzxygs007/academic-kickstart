@@ -12,7 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+<<<<<<< HEAD
 title: Biography
+=======
+title = "About"
+>>>>>>> 05c94cc (Update about.md)
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.

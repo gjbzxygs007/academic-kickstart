@@ -29,9 +29,9 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9110175
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

@@ -3,14 +3,11 @@ title: "An UWB-based Communication Protocol Design for Infra-structure Free Coop
 authors:
 - Jianan Zhu
 - Solmaz S. Kia
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-date: "2020-09-01T00:00:00Z"
+date: "2020-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2020-04-01T00:00:00Z"
+publishDate: "22020-06-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,34 +16,34 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/ION PLANS 2020, Portland"
-publication_short: ""
+publication: In *IEEE/ION PLANS 2020*
+#publication_short: In *STC*
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we design a practical medium access control (MAC) protocol for an infrastructure free cooperative navigation method for a group of firefighters which utilizes an ultra-wideband (UWB) technology for inter-agent ranging and communication. Specifically, our focus in this paper is on developing a communication protocol for DWM1000 UWB transceiver that works in a robust and energy-efficient manner for our cooperative navigation system. Our proposed solution is a dynamic time division multiple access (DTDMA) in conjunction with a novel negotiation-based rescheduling method. The negotiation-based rescheduling method is designed based on the characteristic features of our cooperative navigation algorithm of interest. We demonstrate our result using a field test and a complexity analysis.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 
-url_code: ''
-url_dataset: ''
-url_poster: ''
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -55,7 +52,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

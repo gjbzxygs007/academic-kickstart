@@ -38,7 +38,7 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805384
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: https://www.youtube.com/watch?time_continue=1&v=XXroFFLtnBI&feature=emb_title
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

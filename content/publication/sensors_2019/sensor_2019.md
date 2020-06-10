@@ -22,7 +22,7 @@ publication: In *IEEE Sensors Letters*
 abstract: We present an effective bias compensation method to process none-line-of-sight (NLoS) and long distance line-of-sight (LD-LoS) ultra wideband (UWB) range measurement signals used to aid a pedestrian inertial navigation system (INS). The common UWB bias compensation techniques use machine learning methods to identify and remove the bias in the measurements. These techniques are computationally expensive and require extensive prior data. Here, we propose to use an algorithmic compensation technique that accounts for the bias by estimating it using the Schmidt–Kalman filter (SKF). Next, we exploit the positivity of the error in the UWB range measurements to propose a novel constrained sigma point based correction filtering that can be used atop the SKF for further improvement in the positioning accuracy of the UWB-aided pedestrian inertial navigation. Experiments demonstrate the effectiveness of our methods.
 
 # Summary. An optional shortened abstract.
-summary: IEEE Sensors Letters
+#summary: IEEE Sensors Letters
 
 tags:
 - Source Themes

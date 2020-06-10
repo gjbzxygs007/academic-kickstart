@@ -32,13 +32,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
+<!-- url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''
 url_source: '#'
-url_video: '#'
+url_video: '#' -->
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -63,7 +63,7 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -71,4 +71,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->

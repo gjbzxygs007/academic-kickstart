@@ -12,11 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-<<<<<<< HEAD
 title: Biography
-=======
-title = "About"
->>>>>>> 05c94cc (Update about.md)
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
@@ -24,7 +20,4 @@ title = "About"
 author = "admin"
 +++
 
-<<<<<<< HEAD
 I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab.
-=======
->>>>>>> 55074ef (Update about.md)

@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+=======
+<!-- +++
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
+>>>>>>> b92fcb0 (Update publications.md)
 
 # This file represents a page section.
 headless: true
@@ -122,4 +128,8 @@ Quickly discover relevant content by [filtering publications](./publication/).
 <!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
+<<<<<<< HEAD
 >>>>>>> ccbf6ca (Update publications.md)
+=======
+ -->
+>>>>>>> b92fcb0 (Update publications.md)

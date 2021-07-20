@@ -127,7 +127,6 @@ I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperativ
 I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed mobile agent localization, SLAM, and UWB signal processing/communication. 
 >>>>>>> 9b6622d (Update _index.md)
 =======
-I am a Ph.D. candidate (expected August 2020) in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed localization, SLAM, and UWB signal processing/communication. 
+I am working as a software engineer at Pony.ai on autonomous trucking. I received my Ph.D. in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed localization, SLAM, and UWB signal processing/communication. 
 
-I am actively seeking a software or research engineer role in the self-driving and robotics industry including SLAM, navigation, robotics, and AR/VR in the Bay Area.
 >>>>>>> 6f65a01 (Update _index.md)

@@ -17,7 +17,5 @@ title: Biography
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
-+++
-
-I am a Ph.D. candidate in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab.
+author: "admin"
+---

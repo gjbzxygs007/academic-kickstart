@@ -8,8 +8,8 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 90
-title = "Publications"
-subtitle = ""
+title: "Publications"
+subtitle: ""
 
 title: Recent Publications
 subtitle: ''
@@ -20,34 +20,26 @@ content:
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset: 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order: "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = "An UWB-based Communication Protocol Design for Infra-structure Free Cooperative Navigation"
-    category = "11"
-    publication_type = "22"
-    author = "Jianan Zhu, Solmaz S. Kia"
-    exclude_featured = false
+  filters:
+    tag: "An UWB-based Communication Protocol Design for Infra-structure Free Cooperative Navigation"
+    category: "11"
+    publication_type: "22"
+    author: "Jianan Zhu, Solmaz S. Kia"
+    exclude_featured: false
   
-[design]
+design:
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-<<<<<<< HEAD
-<<<<<<< HEAD
-  view: 4
----
-=======
-  view = 1
-=======
-  view = 2
->>>>>>> 8ca4161 (Update publications.md)
+  view: 2
   
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -62,20 +54,19 @@ content:
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "architecture.png"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image: "architecture.png"  # Name of image in `static/img/`.
+  image_darken: 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
+advanced:
  # Custom CSS. 
- css_style = ""
+ css_style: ""
  
  # CSS class.
- css_class = ""
-+++
->>>>>>> 2917e9a (Update publications.md)
+ css_class: ""
+---
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).

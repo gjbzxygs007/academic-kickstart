@@ -25,25 +25,15 @@ experience:
   - title: Software Engineer
     company: Pony.ai
     company_url: 'www.pony.ai'
-<<<<<<< HEAD
-    company_logo: org-gc
-=======
     company_logo: pony-logo
->>>>>>> 808b550 (Rewise experience)
     location: Fremont, California
     date_start: '2020-10-15'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-<<<<<<< HEAD
-        * Motion planning software development
-        * Modelling
-        * Deploying
-=======
         * Development of motion planning algorithms and software
         * Deployment, test, and maintenance
->>>>>>> 808b550 (Rewise experience)
 
 design:
   columns: '2'

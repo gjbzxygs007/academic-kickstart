@@ -67,4 +67,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am working as a software engineer at <a href="http://www.pony.ai/">Pony.ai</a> working on motion planning for autonomous trucking. I received my Ph.D. in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed localization, SLAM, and UWB signal processing/communication. 
+I am working as a software engineer at <a href="http://www.pony.ai/">Pony.ai</a> working on motion planning for autonomous trucking. I received my Ph.D. degree in Mechanical and Aerospace Engineering at UCI Cooperative Systems Lab, advised by Professor <a href="http://solmaz.eng.uci.edu/">Solmaz S. Kia</a>. My research interests include distributed localization, SLAM, and motion planning. 
